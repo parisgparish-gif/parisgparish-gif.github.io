@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 259.03 257.13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffc40c;
+      }
+    </style>
+  </defs>
+  <g id="bookpic_template">
+    <path class="cls-1" d="M259.03,257.13V14.01c-.07-7.75-6.37-14.01-14.13-14.01H14.14C6.33,0,0,6.33,0,14.14v242.99h259.03Z"/>
+  </g>
+</svg>
